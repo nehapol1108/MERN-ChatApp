@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon backend/server.js",
-    "build": "webpack --config webpack.config.js"
+    "start": "nodemon backend/server.js"
   },
   "author": "neha pol",
   "license": "ISC",
